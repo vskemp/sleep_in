@@ -27,6 +27,6 @@ elif day == 5:
 elif day == 6:
   print("Saturday \nSleep in!")
 elif day == 0:
-  print("Sunday \n Sleep in!")
+  print("Sunday \nSleep in!")
 else:
   print("Not a valid entry.")
